@@ -40,7 +40,7 @@ function App() {
       <ListRender />
       <ConditionalRender />
       {/* props */}
-      <ShowUserName name="Matheus" />
+      <ShowUserName name="Renato" />
       {/* destructuring */}
       <CarDetails brand="Ford" color="Azul" km={10000} />
       {/* reaproveitamento */}
