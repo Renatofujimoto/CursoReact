@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "teclado",
+      "price": "50",
+      "id": 6
+    },
+    {
+      "name": "monitor",
+      "price": "150",
+      "id": 7
+    },
+    {
+      "name": "mentoria",
+      "price": "1000",
+      "id": 8
+    }
+  ]
+}
